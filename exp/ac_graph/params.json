@@ -30,6 +30,5 @@
     "max_norm": 2e-3,
     "norm_up": 1.0,
     "norm": 1e-2,
-    "mask_learn_start": 0,
     "mask_lr": 1.0
 }
